@@ -1,7 +1,7 @@
 [![Version](https://img.shields.io/badge/version-0%2E6-important)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **DRAFT FOR DISCUSSION**
+> **DRAFT FOR DISCUSSION**  
 > _(courtesy of the European Parking Association)_
 
 # EU Regulated Parking Profile
