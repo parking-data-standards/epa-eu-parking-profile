@@ -1,8 +1,10 @@
+[![Version](https://img.shields.io/badge/version-0%2E6-important)](#)
+[![License](https://img.shields.io/badge/license-MIT)](#)
+
 > **DRAFT FOR DISCUSSION**
+> _(courtesy of the European Parking Association)_
 
 # EU Regulated Parking Profile
-_(courtesy of the European Parking Association)_
-
 ## Context
 In support of the EU ITS directive (2010/40/EU), Delegated Regulations have been established and
 adopted to support the deployment of more coherent ITS information services covering a range of topics including multimodal travel information, traffic management, traffic information, safe and secure truck parking, etc. These Delegated Regulations place obligations upon EU Member States to enact national legislation that will make a range of transport and mobility data available, including references to parking data, park and ride information, etc.
