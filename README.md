@@ -1,5 +1,5 @@
 [![Version](https://img.shields.io/badge/version-0%2E6-important)](#)
-[![License](https://img.shields.io/badge/license-MIT)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **DRAFT FOR DISCUSSION**
 > _(courtesy of the European Parking Association)_
